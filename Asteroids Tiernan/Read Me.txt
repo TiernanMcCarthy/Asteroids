@@ -1,0 +1,21 @@
+Note
+
+Collisions do work, they do not until you press a button on the keyboard to stop the player being killed in their spawn repeatedly.
+
+These collisions are not perfect, as they are just a circular bound around the object, they are the main issue.
+
+The game will loop contiously if you lose or win, your lives are shown after you are hit in the game, but in the console window. 
+
+This was not made to be a game, this was a demonstration at University.
+
+
+Controls
+
+W- Thrust
+
+A- Tilt Left
+
+D- Tilt Right
+
+F- Shoot
+
